@@ -1,2 +1,2 @@
 # odinsproject2
-practice
+practice about git and github, commiting first change
